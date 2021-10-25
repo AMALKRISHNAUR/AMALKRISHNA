@@ -1,1 +1,2 @@
+seminar
 # AMALKRISHNAUR.github.io
